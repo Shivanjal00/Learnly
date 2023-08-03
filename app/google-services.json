@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546162019646",
+    "project_id": "learnly-75abb",
+    "storage_bucket": "learnly-75abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546162019646:android:2d9c8c2ab374a9ba79306f",
+        "android_client_info": {
+          "package_name": "com.example.learnly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546162019646-3oi88h9k6osf2gu3ijddfrfbdesi3u8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EoZ0GQ1icbgNG1xsJVb2UM4rEetqpjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546162019646-3oi88h9k6osf2gu3ijddfrfbdesi3u8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
